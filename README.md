@@ -1,8 +1,8 @@
 ### Hi there, I'm [Jose Luis Barral](https://www.linkedin.com/in/jbarralv/) 👋
 
-## I'm a Self-Trained Software developer, cats lover, and video games player!!
+## I'm a fullstack Software developer, cats lover, and video games player!!
 
-- 🔭 I’m currently learning how to develop apps with [ReactJS](https://reactjs.org/)
+- 🔭 I’m currently working as a fullstack developer on [Maer Software](https://www.maersoft.com.ar/)
 - 📫 How to reach me: Check my [LinkedIn] Profile
 - ⚡ Fun fact: Really love to try every kind of board games out there.
 
